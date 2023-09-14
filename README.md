@@ -32,6 +32,10 @@ Welcome to Pomona College Hangman with Cecil the Sagehen! This Python game repli
 
 7. Celebrate your victories with Cecil and learn more about Pomona College with each game.
 
+# Demo Image
+
+![Hang Cecil](demo.png)
+
 ## Requirements
 
 - Python 3.x
