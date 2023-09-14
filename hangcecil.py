@@ -45,7 +45,7 @@ def draw():
     text = word_font.render(display_word, 1, (0,0,0))
     display.blit(text, (550, 200))
     #draw title
-    title= pygame.font.SysFont('comicsans', 80).render("Hangbird :)",1, (0,191,255))
+    title= pygame.font.SysFont('comicsans', 80).render("HangCecil :)",1, (0,191,255))
     display.blit(title, (400,50))
     #draw buttons
     for letter in letters:
